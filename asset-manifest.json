@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/KotenkoNata/chat-practice-lecture/static/css/main.bdb52da3.chunk.css",
-    "main.js": "/KotenkoNata/chat-practice-lecture/static/js/main.fb0b7e32.chunk.js",
-    "main.js.map": "/KotenkoNata/chat-practice-lecture/static/js/main.fb0b7e32.chunk.js.map",
-    "runtime-main.js": "/KotenkoNata/chat-practice-lecture/static/js/runtime-main.813ec841.js",
-    "runtime-main.js.map": "/KotenkoNata/chat-practice-lecture/static/js/runtime-main.813ec841.js.map",
-    "static/js/2.495a1349.chunk.js": "/KotenkoNata/chat-practice-lecture/static/js/2.495a1349.chunk.js",
-    "static/js/2.495a1349.chunk.js.map": "/KotenkoNata/chat-practice-lecture/static/js/2.495a1349.chunk.js.map",
-    "static/js/3.f10a4884.chunk.js": "/KotenkoNata/chat-practice-lecture/static/js/3.f10a4884.chunk.js",
-    "static/js/3.f10a4884.chunk.js.map": "/KotenkoNata/chat-practice-lecture/static/js/3.f10a4884.chunk.js.map",
-    "index.html": "/KotenkoNata/chat-practice-lecture/index.html",
-    "static/css/main.bdb52da3.chunk.css.map": "/KotenkoNata/chat-practice-lecture/static/css/main.bdb52da3.chunk.css.map",
-    "static/js/2.495a1349.chunk.js.LICENSE.txt": "/KotenkoNata/chat-practice-lecture/static/js/2.495a1349.chunk.js.LICENSE.txt"
+    "main.css": "/chat-practice-lecture//static/css/main.bdb52da3.chunk.css",
+    "main.js": "/chat-practice-lecture//static/js/main.fb0b7e32.chunk.js",
+    "main.js.map": "/chat-practice-lecture//static/js/main.fb0b7e32.chunk.js.map",
+    "runtime-main.js": "/chat-practice-lecture//static/js/runtime-main.72742e59.js",
+    "runtime-main.js.map": "/chat-practice-lecture//static/js/runtime-main.72742e59.js.map",
+    "static/js/2.cef5c730.chunk.js": "/chat-practice-lecture//static/js/2.cef5c730.chunk.js",
+    "static/js/2.cef5c730.chunk.js.map": "/chat-practice-lecture//static/js/2.cef5c730.chunk.js.map",
+    "static/js/3.f10a4884.chunk.js": "/chat-practice-lecture//static/js/3.f10a4884.chunk.js",
+    "static/js/3.f10a4884.chunk.js.map": "/chat-practice-lecture//static/js/3.f10a4884.chunk.js.map",
+    "index.html": "/chat-practice-lecture//index.html",
+    "static/css/main.bdb52da3.chunk.css.map": "/chat-practice-lecture//static/css/main.bdb52da3.chunk.css.map",
+    "static/js/2.cef5c730.chunk.js.LICENSE.txt": "/chat-practice-lecture//static/js/2.cef5c730.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.813ec841.js",
-    "static/js/2.495a1349.chunk.js",
+    "static/js/runtime-main.72742e59.js",
+    "static/js/2.cef5c730.chunk.js",
     "static/css/main.bdb52da3.chunk.css",
     "static/js/main.fb0b7e32.chunk.js"
   ]
